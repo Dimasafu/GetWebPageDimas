@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Get Web Page Dimas</string>
+
+    <string-array name="Spinner">
+        <item>http://</item>
+        <item>https://</item>
+    </string-array>
+</resources>
